@@ -1,0 +1,6 @@
+Le but du projet est de pouvoir partager sa liste de livres à lire.
+Les listes des livres peuvent être de type public ou privé. 
+Seuls les utilisateurs inscrits peuvent voir les listes de type public.
+Pour ajouter une liste il faut un minimum de 1 livres et un maximum de 20 livres.
+Un livre contient 1 titre, 1 auteur, une date de publication, une courte description et une image.
+Pour s'inscrire un utilisateur à besoin d'un email et un mot de passe.
